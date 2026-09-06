@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=X-GNUstep;System;Monitor;
+Name=NetCheck
+StartupWMClass=NetCheck
+Comment=Network interface dock and status monitor
+Icon=NetCheck.tiff
+Exec=/usr/GNUstep/System/Tools/openapp NetCheck

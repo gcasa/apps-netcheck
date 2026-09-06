@@ -1,0 +1,11 @@
+{
+  ApplicationName = NetCheck;
+  ApplicationDescription = "Network interface dock and status monitor";
+  ApplicationRelease = "1.0";
+  Authors = ("OpenAI Codex");
+  Copyright = "GNU General Public License version 3";
+  FullVersionID = "1.0";
+  NSExecutable = NetCheck;
+  NSIcon = "NetCheck.tiff";
+  NSPrincipalClass = NSApplication;
+}

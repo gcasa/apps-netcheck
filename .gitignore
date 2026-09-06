@@ -1,0 +1,4 @@
+*.o
+*.app
+.DS_Store
+build
